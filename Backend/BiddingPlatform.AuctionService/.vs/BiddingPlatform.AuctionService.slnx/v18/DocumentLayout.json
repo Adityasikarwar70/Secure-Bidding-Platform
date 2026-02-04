@@ -1,0 +1,564 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "A:\\Dot Net\\BiddingPlatform.AuctionService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\infrastructure\\repositories\\bidrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:infrastructure\\repositories\\bidrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:infrastructure\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:infrastructure\\repositories\\orderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\infrastructure\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:infrastructure\\repositories\\paymentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\infrastructure\\repositories\\productimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:infrastructure\\repositories\\productimagerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:infrastructure\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\infrastructure\\persistence\\auctiondbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:infrastructure\\persistence\\auctiondbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\infrastructure\\repositories\\auctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:infrastructure\\repositories\\auctionrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\infrastructure\\persistence\\auctiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:infrastructure\\persistence\\auctiondbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\infrastructure\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:infrastructure\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\infrastructure\\middleware\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:infrastructure\\middleware\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\infrastructure\\configuration\\razorpaysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:infrastructure\\configuration\\razorpaysettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\domain\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:domain\\enums\\paymentstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\domain\\enums\\buyorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:domain\\enums\\buyorderstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\domain\\enums\\auctionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:domain\\enums\\auctionstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\domain\\enums\\auctionresultstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:domain\\enums\\auctionresultstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\domain\\enums\\approvalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:domain\\enums\\approvalstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\domain\\enums\\admindecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:domain\\enums\\admindecision.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:domain\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\domain\\entities\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:domain\\entities\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\domain\\entities\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:domain\\entities\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:domain\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\domain\\entities\\buyorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:domain\\entities\\buyorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\domain\\entities\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:domain\\entities\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:controllers\\paymentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\controllers\\bidscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:controllers\\bidscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|a:\\dot net\\biddingplatform.auctionservice\\controllers\\auctionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F190A26-96DB-80D9-C9AB-9F07AF2EF70C}|BiddingPlatform.AuctionService.csproj|solutionrelative:controllers\\auctionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BidRepository.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Repositories\\BidRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\BidRepository.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Repositories\\BidRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\BidRepository.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:52:24.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:52:19.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderRepository.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\OrderRepository.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Repositories\\OrderRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\OrderRepository.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:52:14.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PaymentRepository.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Repositories\\PaymentRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\PaymentRepository.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Repositories\\PaymentRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\PaymentRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAswCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:51:39.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductImageRepository.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Repositories\\ProductImageRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ProductImageRepository.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Repositories\\ProductImageRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ProductImageRepository.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:51:35.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ProductRepository.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ProductRepository.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAUwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:51:30.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AuctionRepository.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Repositories\\AuctionRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\AuctionRepository.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Repositories\\AuctionRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\AuctionRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:45:26.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuctionDbContextFactory.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Persistence\\AuctionDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\AuctionDbContextFactory.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Persistence\\AuctionDbContextFactory.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\AuctionDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:44:24.247Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuctionDbContext.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Persistence\\AuctionDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Persistence\\AuctionDbContext.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Persistence\\AuctionDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Persistence\\AuctionDbContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:44:18.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:42:42.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Infrastructure\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:41:00.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Middleware\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Middleware\\ErrorResponse.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Middleware\\ErrorResponse.cs",
+              "RelativeToolTip": "Infrastructure\\Middleware\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:40:57.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RazorpaySettings.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Configuration\\RazorpaySettings.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Configuration\\RazorpaySettings.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Infrastructure\\Configuration\\RazorpaySettings.cs",
+              "RelativeToolTip": "Infrastructure\\Configuration\\RazorpaySettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:40:52.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PaymentStatus.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Enums\\PaymentStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\PaymentStatus.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Enums\\PaymentStatus.cs",
+              "RelativeToolTip": "Domain\\Enums\\PaymentStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:40:46.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BuyOrderStatus.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Enums\\BuyOrderStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\BuyOrderStatus.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Enums\\BuyOrderStatus.cs",
+              "RelativeToolTip": "Domain\\Enums\\BuyOrderStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:40:44.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AuctionStatus.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Enums\\AuctionStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\AuctionStatus.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Enums\\AuctionStatus.cs",
+              "RelativeToolTip": "Domain\\Enums\\AuctionStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:40:42.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuctionResultStatus.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Enums\\AuctionResultStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\AuctionResultStatus.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Enums\\AuctionResultStatus.cs",
+              "RelativeToolTip": "Domain\\Enums\\AuctionResultStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:39:54.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApprovalStatus.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Enums\\ApprovalStatus.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\ApprovalStatus.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Enums\\ApprovalStatus.cs",
+              "RelativeToolTip": "Domain\\Enums\\ApprovalStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:39:53.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AdminDecision.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Enums\\AdminDecision.cs",
+              "RelativeDocumentMoniker": "Domain\\Enums\\AdminDecision.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Enums\\AdminDecision.cs",
+              "RelativeToolTip": "Domain\\Enums\\AdminDecision.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:39:51.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Entities\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ProductImage.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Entities\\ProductImage.cs",
+              "RelativeToolTip": "Domain\\Entities\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:39:10.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Product.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Product.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Entities\\Product.cs",
+              "RelativeToolTip": "Domain\\Entities\\Product.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:39:08.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Payment.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:39:07.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Category.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Category.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Entities\\Category.cs",
+              "RelativeToolTip": "Domain\\Entities\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:39:05.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BuyOrder.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Entities\\BuyOrder.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\BuyOrder.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Entities\\BuyOrder.cs",
+              "RelativeToolTip": "Domain\\Entities\\BuyOrder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:39:03.036Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Bid.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Entities\\Bid.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Bid.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Entities\\Bid.cs",
+              "RelativeToolTip": "Domain\\Entities\\Bid.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:39:01.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Auction.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Entities\\Auction.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Auction.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Domain\\Entities\\Auction.cs",
+              "RelativeToolTip": "Domain\\Entities\\Auction.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:38:59.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAHIAAAAAAAAAAAAwwHwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:37:26.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PaymentsController.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:37:00.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAqwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:36:15.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriesController.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAQwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:35:17.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BidsController.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Controllers\\BidsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BidsController.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Controllers\\BidsController.cs",
+              "RelativeToolTip": "Controllers\\BidsController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAQwI8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:33:37.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "AuctionsController.cs",
+              "DocumentMoniker": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Controllers\\AuctionsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuctionsController.cs",
+              "ToolTip": "A:\\Dot Net\\BiddingPlatform.AuctionService\\Controllers\\AuctionsController.cs",
+              "RelativeToolTip": "Controllers\\AuctionsController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwD8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T18:31:24.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
