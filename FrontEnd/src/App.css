@@ -1,0 +1,32 @@
+.startup{
+  padding: 5px;
+  /* overflow: hidden; */
+
+}
+
+.page-reveal {
+  position: fixed;
+  inset: 0;
+  background: #d8f3dc;
+  z-index: 9999;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.counter {
+  color: #28a745;
+  /* background-color: #28a745;
+  padding: 1px 40px;
+  border-radius: 10px; */
+  font-size: clamp(48px, 10vw, 120px);
+  font-weight: 700;
+  font-family: monospace;
+}
+
+/* Website starts off-screen */
+.app-content {
+  transform: translateX(-80px);
+  opacity: 0;
+}

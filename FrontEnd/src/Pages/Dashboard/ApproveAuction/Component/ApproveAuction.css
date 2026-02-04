@@ -1,0 +1,75 @@
+.table thead th {
+  font-weight: 600;
+  letter-spacing: 0.5px;
+}
+
+.table-hover tbody tr:hover {
+  background-color: #95d5b2;
+  transition: background-color 0.2s ease;
+}
+
+.badge {
+  padding: 6px 10px;
+  font-size: 0.75rem;
+}
+
+.btn-sm {
+  padding: 4px 10px;
+  font-size: 0.8rem;
+}
+
+
+.go-button{
+padding: 8px;
+border-radius: 10px;
+border: none;
+background-color: #d8f3dc;
+text-decoration: none;
+transition: 0.3s;
+}
+
+.order-button{
+padding: 8px;
+border-radius: 10px;
+border: none;
+background-color: #52b788;
+text-decoration: none;
+transition: 0.3s;
+}
+
+.order-button:hover{
+  background-color: #65e1a7;
+}
+
+
+
+.go-button:hover{
+background-color: #95d5b2;
+}
+
+.action-icon {
+  font-size: 28px;
+  cursor: pointer;
+  display: inline-block;
+
+  transition: 
+    transform 0.25s ease,
+    color 0.25s ease,
+    filter 0.25s ease;
+}
+
+
+.action-icon:hover {
+  transform: scale(1.15) rotate(15deg);
+  filter: drop-shadow(0 4px 8px rgba(0, 0, 0, 0.25));
+}
+
+
+.action-icon:active {
+  transform: scale(0.95);
+}
+
+
+.red{
+  color:#e60023;
+}

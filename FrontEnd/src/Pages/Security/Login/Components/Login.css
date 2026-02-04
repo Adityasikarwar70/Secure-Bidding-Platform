@@ -1,0 +1,55 @@
+.login-modal {
+  border-radius: 24px;
+  overflow: hidden;
+  position: relative;
+}
+
+/* Soft gradient background */
+.login-modal::before {
+  content: "";
+  position: absolute;
+  inset: -60%;
+  background: #b7e4c7;
+  opacity: 0.7;
+  z-index: 0;
+}
+
+.modal-body {
+  position: relative;
+  z-index: 1;
+}
+
+
+
+.logo-text {
+  font-size: 28px;
+  font-weight: 700;
+  background: linear-gradient(135deg, #5b8cff, #b23cff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+
+
+/* Login button */
+.btn-secondary {
+  border: none;
+  border-radius: 12px;
+}
+
+
+.clear-icon {
+  position: absolute;
+  top: 50%;
+  right: 16px;
+  transform: translateY(-50%);
+  color: #6c757d;
+  cursor: pointer;
+  font-size: 18px;
+  z-index: 5;
+}
+
+.clear-icon:hover {
+  color: #dc3545;
+}
+

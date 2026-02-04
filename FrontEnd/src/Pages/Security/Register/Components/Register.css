@@ -1,0 +1,141 @@
+.Mui-active .css-3hpdci-MuiSvgIcon-root-MuiStepIcon-root {
+  color: #081c15 !important;
+}
+
+.Mui-completed .css-3hpdci-MuiSvgIcon-root-MuiStepIcon-root {
+  color: #2d6a4f !important;
+}
+.css-14ncu80-MuiStepConnector-line {
+  border-color: #081c15 !important;
+  border-width: 2px !important;
+}
+
+.css-12eb3rq-MuiStepLabel-label {
+  font-family: "Boldonse", system-ui !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  font-size: 12px !important;
+}
+
+.Mui-completed .css-12eb3rq-MuiStepLabel-label {
+  font-family: "Boldonse", system-ui !important;
+  font-weight: 400 !important;
+  font-style: normal !important;
+  font-size: 12px !important;
+  color: #2d6a4f !important;
+}
+
+label {
+  padding-left: 20px !important;
+}
+
+.register {
+  margin: 8px 0px;
+  width: 100%;
+
+  background: #b7e4c7;
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.steps {
+  width: 25%;
+}
+
+.step1 {
+  min-height: 50vh;
+  background: #d8f3dc;
+  border-radius: 10px;
+}
+
+.verifyBtn {
+  background-color: #40916c;
+  color: white;
+  font-size: 20px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 10px;
+}
+
+.verifyBtn:hover {
+  background-color: #2d6a4f;
+  color: white;
+  transition: 0.3s;
+}
+
+.yellow {
+  border: 2px solid #1b4332;
+  background-color: transparent;
+  transition: 0.3s;
+  color: #1b4332;
+}
+
+.yellow:hover {
+  background: #1b4332;
+  color: white;
+}
+
+.back:disabled {
+  background-color: #c1ffdd !important;
+  font-family: "Exo 2", sans-serif !important;
+  font-optical-sizing: auto !important;
+  color: #081c15 !important;
+  cursor: not-allowed;
+  pointer-events: auto;
+}
+
+.back {
+  background-color: #95d5b2 !important;
+  font-family: "Exo 2", sans-serif !important;
+  font-optical-sizing: auto !important;
+  color: #081c15 !important;
+}
+
+.next {
+  background-color: #1b4332 !important;
+  font-family: "Exo 2", sans-serif !important;
+  font-optical-sizing: auto !important;
+  font-weight: 500 !important;
+}
+
+.step2 {
+  width: 40vw !important;
+  min-height: 50vh;
+  background: #d8f3dc;
+  border-radius: 10px;
+}
+
+.uploadImage {
+  padding: 8px;
+  border-radius: 10px;
+  background-color: #40916c;
+  border: none;
+  font-family: "Exo 2", sans-serif !important;
+  font-optical-sizing: auto !important;
+  font-weight: 500 !important;
+  color: white;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+.uploadImage:hover {
+  background-color: #306c51;
+}
+
+@media (max-width: 768px) {
+  .css-12eb3rq-MuiStepLabel-label {
+    font-size: 10px !important;
+  }
+
+  .Mui-completed .css-12eb3rq-MuiStepLabel-label {
+    font-size: 10px !important;
+  }
+
+  .steps {
+    width: 100%;
+  }
+
+  .step2 {
+    width: 90vw !important;
+  }
+}

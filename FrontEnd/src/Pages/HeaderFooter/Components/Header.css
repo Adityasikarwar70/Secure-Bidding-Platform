@@ -1,0 +1,169 @@
+.custom-navbar {
+  padding: 10px;
+background: #52b788;
+position: relative;
+  border-radius: 10px;
+  z-index: 9;
+  position: relative;
+  color: black;
+}
+
+.navbar-toggler-icon {
+  filter: invert(1);
+}
+
+
+.link {
+  position: relative;
+  text-decoration: none;
+  color: white;
+  font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 18px;
+
+  transition: color 0.3s ease;
+}
+
+.link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 0%;
+  height: 2px;
+  background-color: #1b4332;
+  transition: width 0.3s ease;
+}
+
+.link:hover {
+  color: #1b4332; 
+}
+
+.link:hover::after {
+  width: 100%;
+}
+
+
+
+.profile {
+  width: 42px;
+  aspect-ratio: 1;
+  object-fit: cover;
+  cursor: pointer;
+  border: 2px solid #8ccdfe;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+.profile img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+
+  }
+
+.login{
+  background-color: #d8f3dc !important;
+}
+
+.dropdown-toggle::after {
+    display: none !important;
+}
+
+/* Dropdown container */
+.profile-menu {
+  min-width: 200px;
+  padding: 8px;
+  border-radius: 12px;
+  border: none;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.15);
+  animation: dropdownFade 0.15s ease-out;
+}
+/* .info{
+  font-size: 12px;
+} */
+.info .email{
+  
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.info .name{
+  color: white;
+  font-size: 15px;
+
+}
+
+/* Entry animation */
+@keyframes dropdownFade {
+  from {
+    opacity: 0;
+    transform: translateY(-6px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Items */
+.profile-item {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 12px;
+  border-radius: 8px;
+  font-weight: 500;
+  color: #333;
+  transition: background 0.2s ease, transform 0.15s ease;
+}
+
+/* Icons */
+.profile-item i {
+  font-size: 16px;
+  color: #6c757d;
+}
+
+/* Hover effect */
+.profile-item:hover {
+  background-color: #74c69d;
+  transform: translateX(2px);
+}
+
+/* Logout style */
+.profile-item.logout {
+  color: #dc3545;
+}
+
+.profile-item.logout i {
+  color: #dc3545;
+}
+
+.profile-item.logout:hover {
+  background: rgba(220, 53, 69, 0.08);
+}
+
+.createButton{
+  position: absolute;
+  right: 250px;
+  margin-left: 50px;
+  background-color: #1b4332;
+  color: #d8f3dc;
+  border: none;
+  transition: 0.3s;
+  text-decoration: none;
+}
+
+.createButton:hover{
+    background-color: #153326;
+}
+
+#BecomeSellerMedel .modal-body{
+  background-color: #d8f3dc;
+  border-radius: 5px;
+}

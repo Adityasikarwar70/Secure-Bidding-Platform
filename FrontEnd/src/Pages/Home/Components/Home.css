@@ -1,0 +1,95 @@
+.home {
+  text-align: center;
+  width: 100%;
+  background-color: #d8f3dc;
+  overflow: hidden;
+}
+.sec1 {
+  width: 100%;
+  min-height: 100vh;
+  background-image: url("../../../assets/Images/Hero1.svg");
+  background-size: cover;
+  background-position: center center;
+  background-attachment: fixed !important;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  overflow: hidden;
+  color: white;
+}
+
+
+
+.description {
+  display: inline-block;
+  width: 90%;
+  color: #081c15;
+  margin-top: 10px;
+  font-size: clamp(6px, 4vw, 19px);
+}
+
+.back {
+  background-color: #28a745;
+  padding: 1px 11px;
+  border-radius: 4px;
+  color: white;
+}
+
+.explore {
+  margin-top: 15px;
+  background-color: #28a745;
+  color: white;
+  padding: 8px 25px;
+  border-radius: 6px;
+  font-size: clamp(10px, 3vw, 16px);
+  font-weight: 600;
+  transition: all 0.3s ease;
+  border: none;
+}
+
+.explore:hover {
+  /* background-color: #1b4332; */
+  color: white;
+  text-decoration: none;
+  transform: scale(1.05);
+  /* box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); */
+}
+
+.sec2 {
+  width: 100%;
+  padding: 50px;
+  background-color: #d8f3dc;
+}
+
+.sec4{
+  width: 100%;
+  padding: 50px;
+  background-color: #cfebd3;
+}
+
+@media (max-width: 768px) {
+  .sec1 {
+    width: 100%;
+    min-height: 100svh;
+
+    background-image: url("../../../assets/Images/heroMobile.svg");
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center top;
+
+    display: flex;
+    align-items: start;
+    justify-content: center;
+
+    padding: 30px 10px;
+    color: white;
+
+    position: relative;
+    overflow: hidden;
+  }
+
+  .sec1 span {
+    width: 80%;
+  }
+}

@@ -1,0 +1,141 @@
+html, body {
+  background-color: #d8f3dc !important;
+  height: 100%;
+  margin: 0;
+}
+
+#root {
+  height: 100%;
+}
+
+body::selection {
+  background-color: #28a745; 
+  color: #ffffff;           
+}
+::-webkit-scrollbar {
+  width: 11px;
+}
+
+::-webkit-scrollbar-track {
+  background: #d8f3dc;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #74c69d;
+  border-radius: 10px;
+  border: 2px solid #d8f3dc;
+}
+
+/* .page-wrapper {
+  will-change: transform, opacity;
+} */
+
+.green{
+  color: #28a745;
+}
+
+.rounded{
+  border-radius: 10px;
+}
+
+.heading {
+  font-family: "Boldonse", system-ui;
+  font-weight: 400;
+  font-style: normal;
+  line-height: 1.4;        
+  letter-spacing: 0.02em;  
+  word-spacing: 0.15em;  
+  font-size: clamp(20px, 6vw, 50px);
+  text-align: center;
+  color: #2d6a4f;
+  
+}
+
+.subHeading {
+  font-family: "Exo 2", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 500;
+  font-style: normal;
+  font-size: clamp(15px, 4vw, 30px);
+  color: #081c15;
+}
+
+button,.ptr{
+  cursor: pointer;
+}
+
+.main-bg {
+  background-color: #1b4332 !important;
+  color: white !important;
+}
+
+.hr{
+  height: 1px;
+  background-color: #95d5b2;
+  width: 100%;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+
+.sectionMargin{
+  margin-top: 5px;
+  /* margin-bottom: 8px; */
+  border-radius: 10px;
+}
+
+#loaderouterid {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.7);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 999999;
+}
+
+body:has(#loaderouterid) {
+  overflow: hidden;
+  height: 100vh;
+  touch-action: none;
+}
+
+
+.loading {
+  width: 100px;
+aspect-ratio: 1;
+  perspective: 800px; 
+}
+
+
+.loading img {
+  width: 100%;
+  height: 100%;
+  animation: spinY 1.2s linear infinite;
+  transform-style: preserve-3d;
+}
+
+
+
+@keyframes spinY {
+  0% {
+    transform: rotateY(0deg);
+  }
+  100% {
+    transform: rotateY(360deg);
+  }
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+button:disabled{
+    background-color: gray;
+    transition: 0.3s;
+}
+
+button:disabled:hover{
+  background-color: rgb(104, 104, 104);
+}

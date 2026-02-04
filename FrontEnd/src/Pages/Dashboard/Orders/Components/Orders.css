@@ -1,0 +1,18 @@
+.OrderWrapper{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.order-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 👈 4 in a row */
+  gap: 24px; /* equal gap between cards */
+  justify-content: start; /* align from left */
+  align-items: stretch;
+}
+
+/* Optional: card wrapper control */
+.OrderWrapper {
+  width: 100%;
+}

@@ -1,0 +1,113 @@
+.auction-card {
+    width: 300px;
+    background: #d8f3dc;
+    border-radius: 14px;
+    padding: 12px;
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.08);
+    cursor: pointer;
+    border: 1px solid #95d5b2;
+    transition: 0.3s;
+}
+.auction-card:hover img {
+ transform: scale(1.05);
+    transition: transform 0.3s ease;
+}
+
+
+
+
+.countdown {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.countdown div {
+  text-align: center;
+}
+
+.countdown strong {
+  display: block;
+  font-size: 18px;
+  font-weight: 700;
+}
+
+.countdown span {
+  font-size: 12px;
+  color: #777;
+}
+
+.imgContainer {
+    overflow: hidden;
+    border-radius: 0px 30px 0px 30px;
+      margin: 10px 0;
+}
+.auction-img {
+  width: 100%;
+  height: 186px;
+  object-fit: cover;
+  border-radius: 0px 30px 0px 30px;
+    transition: transform 0.3s ease;
+
+}
+
+.bidDetails{
+    margin-bottom: 12px;
+    color: #333;
+    /* font-weight: 500; */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: start;
+
+}
+
+.bidDetails h5 {
+    margin: 5px;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+
+.bidDetails p{
+    margin: 5px;
+    font-size: 16px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    
+} 
+
+.bid-btn {
+  width: 100%;
+  background: #28a745;
+  color: white;
+  border: none;
+  padding: 10px;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.bid-btn:hover {
+  background: #218838;
+  transform: translateX(5px);
+}
+
+.share{
+    background:#1b4332;
+    aspect-ratio: 1;
+    color: #d8f3dc;
+    border: none;
+    padding: 8px;
+    border-radius: 50%;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    display: flex;
+}
+
+.share:hover {
+    background: #14532d;
+}

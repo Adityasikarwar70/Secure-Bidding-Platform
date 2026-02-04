@@ -1,0 +1,102 @@
+.image-upload {
+  width: 100%;
+  max-width: 420px;
+  height: 220px;
+  border: 2px dashed #28a745;
+  border-radius: 14px;
+  background: #eafaf1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  position: relative;
+  overflow: hidden;
+}
+
+.image-upload:hover {
+  background: #dff5e8;
+}
+
+.image-upload.dragging {
+  background: #c7efd8;
+  border-color: #1e7e34;
+  transform: scale(1.02);
+}
+
+.upload-content {
+  text-align: center;
+  color: #1e7e34;
+  border: 2px dotted #28a745;
+
+  padding: 7px;
+  border-radius: 10px;
+  width: 50%;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.upload-content:hover {
+  background: #c7efd8;
+}
+
+.upload-content p {
+  font-weight: 600;
+  margin: 8px 0 4px;
+}
+
+.upload-content span {
+  font-size: 14px;
+  opacity: 0.7;
+}
+
+.preview-wrapper{
+    position: relative;
+    border: 2px dotted #28a745;
+
+
+  padding: 7px;
+  border-radius: 10px;
+  width: 30%;
+}
+.preview-wrapper img {
+  width: 100px;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 12px;
+}
+.preview-wrapper i{
+    position: absolute;
+    color: red;
+    cursor: pointer;
+    transition: 0.3;
+    right: 10px;
+}
+
+.cross:hover{
+    scale: 1.2;
+     color: red;
+}
+
+@media (max-width: 768px) {
+
+.preview-wrapper{
+  width: 50%;
+}
+.preview-wrapper i{
+    position: absolute;
+    color: red;
+    cursor: pointer;
+    transition: 0.3;
+    right: 10px;
+    bottom: 10px;
+    font-size: 30px;
+}
+.preview-wrapper img {
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 12px;
+}
+
+}

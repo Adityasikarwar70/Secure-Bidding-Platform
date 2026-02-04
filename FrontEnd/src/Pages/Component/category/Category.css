@@ -1,0 +1,46 @@
+.category{
+    width: 130px;
+    aspect-ratio: 1;
+    /* border: 1px solid #ccc; */
+    border-radius: 8px;
+    padding: 16px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 5px;
+    font-family: "Boldonse", system-ui;
+    font-size: 13px;
+    cursor: pointer;
+    
+}
+
+.category p{
+
+    position: relative;
+}
+.category p::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  width: 0%;
+  height: 2px;
+  background-color: #28a745;
+  transition: width 0.3s ease;
+}
+
+.category p:hover {
+  color: #28a745; 
+}
+
+.category p:hover::after {
+  width: 100%;
+}
+
+.category img{
+    height: 50px;
+    aspect-ratio: 1;
+
+}

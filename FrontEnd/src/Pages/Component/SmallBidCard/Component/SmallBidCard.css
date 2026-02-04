@@ -1,0 +1,68 @@
+.bid-card-small {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 14px;
+  background: #d8f3dc;
+  border-radius: 10px;
+  border: 1px solid #e5e7eb;
+  margin-bottom: 10px;
+  width: 250px;
+  cursor: pointer;
+  transition:
+    background 0.2s ease,
+    transform 0.2s ease;
+}
+
+.bid-card-small:hover {
+  background: #b7e4c7;
+  transform: translateY(-2px);
+}
+
+/* LEFT */
+.bid-left {
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+}
+
+.bid-amount {
+  font-size: 16px;
+  font-weight: 600;
+  color: #2e7d32;
+  margin: 0;
+}
+
+.bid-user {
+  font-size: 12px;
+  color: #555;
+  margin: 0;
+}
+
+.bid-middle {
+  text-align: right;
+}
+
+.bid-auction {
+  font-size: 12px;
+  font-weight: 500;
+  margin: 0;
+  color: #333;
+}
+
+.bid-time {
+  font-size: 11px;
+  color: #777;
+  margin: 0;
+}
+
+.bid-right {
+  margin-left: 10px;
+}
+
+.status-dot {
+  width: 9px;
+  height: 9px;
+  background-color: #2e7d32;
+  border-radius: 50%;
+}
