@@ -8,7 +8,7 @@ Users can create auctions, upload product images, participate in live bidding, a
 
 ## 🚀 Live Preview
 
-🔗 [Live Demo Link Here]
+🔗 NOT DEPLOYED YET
 
 ---
 
